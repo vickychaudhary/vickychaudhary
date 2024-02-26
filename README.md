@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🦇 Greetings! I'm the Dark Developer - Vicky 🦇</h1>
+    <h1>Greetings! I'm Vikas Chaudhary </h1>
     <h3>An Agile Avenger of Web Realms from Gotham City</h3>
     <img src="https://komarev.com/ghpvc/?username=vickykrishna" alt="vickykrishna" />
     <br/>
