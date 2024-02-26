@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Greetings! I'm Vikas Chaudhary </h1>
-    <h3>An Agile Avenger of Web Realms from Gotham City</h3>
+    <h3>An Agile Vigilant of Web Realms from Gotham City</h3>
     <img src="https://komarev.com/ghpvc/?username=vickykrishna" alt="vickykrishna" />
     <br/>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickykrishna" alt="vickykrishna" /></a>
